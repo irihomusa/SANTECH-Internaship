@@ -2,4 +2,29 @@
 
 *Building skills through innovation, collaboration, and real-world problem solving.*
 
-This platform showcases the work, projects, and technical progress of Group 10 during our internship program. It includes weekly activities, practical implementations, and key learning outcomes in ICT and system development.
+---
+
+## 👥 Team Members
+
+- Usanase Gashajia Praise – Documentation Lead  
+- Iriho Musabu – Developer  
+- Irakoze Kepha – System Analyst  
+- Nshuti Cliff – Hardware Specialist  
+
+---
+
+## 📅 Internship Overview
+
+**Duration:**
+
+- **Start Date:** 30 March 2026  
+- **End Date:** 30 April 2026  
+
+---
+
+## 🚀 Key Objectives
+
+- Apply theoretical ICT knowledge in real-world scenarios  
+- Develop practical system solutions  
+- Strengthen teamwork and collaboration  
+- Build a professional technical portfolio  
